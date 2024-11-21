@@ -3,9 +3,9 @@
 
 ### HECHO POR:
 
-###JUAN PABLO FERNANDEZ,
+### JUAN PABLO FERNANDEZ,
 
-###CESAR DAVID AMAYA
+### CESAR DAVID AMAYA
 
 ## Escalamiento en Azure con Maquinas Virtuales, Sacale Sets y Service Plans
 
