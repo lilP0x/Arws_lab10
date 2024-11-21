@@ -1,6 +1,11 @@
 ### Escuela Colombiana de Ingeniería
 ### Arquitecturas de Software - ARSW
 
+### HECHO POR:
+
+JUAN PABLO FERNANDEZ
+CESAR DAVID AMAYA
+
 ## Escalamiento en Azure con Maquinas Virtuales, Sacale Sets y Service Plans
 
 ### Dependencias
